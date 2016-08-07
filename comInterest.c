@@ -13,7 +13,6 @@ Note: To run the file use the command below:
 #include"stdio.h"
 #include"math.h"
 
-
 void main()
 {
 	float pri, rat, cf, tim, ci;
