@@ -19,5 +19,5 @@ void main()
 	scanf("%f%f%f", &A, &B, &C);
 	x = (- B + sqrt(pow(B, 2) - 4 * A * C))/2 * A;
 	y = (- B - sqrt(pow(B, 2) - 4 * A * C))/2 * A;
-	printf("Root 1 = %.2f\nRoot 2 = %.2f\n", x, y); 
+	printf("Root 1 = %.1f\nRoot 2 = %.1f\n", x, y); 
 }
