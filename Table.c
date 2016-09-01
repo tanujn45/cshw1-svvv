@@ -28,19 +28,3 @@ void main()
 		printf("%d * %d = %d\n", a, i, (a * i));
 	}
 }
-/*
-void fibonacci()
-{
-	int a = 0, b = 1, c = 1, n;
-	printf("Enter the number of digits\n");
-	scanf("%d", &n);
-	printf("0\n1\n");
-	for(int i = 3; i <= n; i ++)
-	{
-		printf("%d\n", c);
-		a = b;
-		b = c;
-		c = a + b;
-	}
-}
-*/
