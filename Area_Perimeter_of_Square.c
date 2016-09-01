@@ -11,6 +11,7 @@ gcc -o square square.c
 Note: To run the file use the command below:
 ./square
 */	 
+
 #include "stdio.h"
 
 void main()
