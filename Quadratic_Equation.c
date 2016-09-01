@@ -2,8 +2,12 @@
 Author__________Tanuj Namdeo
 Program_________Roots of Quadratic equation
 email___________tanujn45@gmail.com
+
+Note: copy the code in a file and name it quad.c
+
 Note: To compile the file in Ubuntu use the command below:
 gcc -o quad quad.c -lm
+
 Note: To run the file use the command below:
 ./quad
 */
