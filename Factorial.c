@@ -16,8 +16,8 @@ Note: To run the file use the command below:
 
 void main()
 {
-  int a = 0, b = 1, c = 1, n;
-  printf("Enter the number of digits\n");
+	int a = 0, b = 1, c = 1, n;
+	printf("Enter the number of digits\n");
 	scanf("%d", &n);
 	printf("0\n1\n");
 	for(int i = 3; i <= n; i ++)
