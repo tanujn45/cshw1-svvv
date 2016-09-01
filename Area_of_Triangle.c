@@ -3,6 +3,8 @@ Author__________Tanuj Namdeo
 Program_________Area of Triangle
 email___________tanujn45@gmail.com
 
+Note: copy the code in a file and name it areaTriangle.c
+
 Note: To compile the file in Ubuntu use the command below:
 gcc -o areaTriangle areaTriangle.c -lm
 
