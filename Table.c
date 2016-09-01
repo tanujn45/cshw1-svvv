@@ -2,8 +2,12 @@
 Author__________Tanuj Namdeo
 Program_________Area of Circle
 email___________tanujn45@gmail.com
+
+Note: copy the code in a file and name it table.c
+
 Note: To compile the file in Ubuntu use the command below:
 gcc -o table table.c -std=c99
+
 Note: To run the file use the command below:
 ./table
 */	 
